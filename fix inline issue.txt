@@ -1,0 +1,4 @@
+# If using JupyterLab
+conda install nodejs
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install jupyter-matplotlib
